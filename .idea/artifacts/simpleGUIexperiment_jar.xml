@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="simpleGUIexperiment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simpleGUIexperiment_jar</output-path>
+    <root id="root">
+      <element id="archive" name="simpleGUIexperiment.jar">
+        <element id="module-output" name="simpleGUIexperiment" />
+      </element>
+    </root>
+  </artifact>
+</component>
